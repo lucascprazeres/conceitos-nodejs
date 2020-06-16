@@ -42,8 +42,8 @@ Um pequeno exemplo:
 ```
 
 ### Esse conhecimento te ajudou? 😍
-*Avalie o repositório com uma star, para que mais devs possam vê-lo!*
+*Avalie o repositório com uma ⭐, para que mais devs possam vê-lo!*
 
 ***
 
-Feito com 💜 por [Lucas dos Prazeres]()
+Feito com 💜 por [Lucas dos Prazeres](https://www.linkedin.com/in/lucas-prazeres/)
